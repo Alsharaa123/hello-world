@@ -1,2 +1,3 @@
 # hello-world
 my first repository
+Hi Guys , that is me Nabil , i like coding and softwaredevelopment .....
